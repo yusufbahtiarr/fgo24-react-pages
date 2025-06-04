@@ -24,13 +24,13 @@ function AboutPage(){
             <p className="text-base md:text-lg text-justify leading-loose">
               During our two-decade journey to becoming a trusted partner for clients, we have successfully built a reputation as a provider of various infrastructure connectivity services.
               <br /><br />
-              Founded in 2002, when the digital world was not yet rapidly developing, iForte was already running VSAT, ISP, and IT outsourcing businesses. We already have both a closed fixed network and an internet service provider license at the time.
+              Founded in 2002, when the digital world was not yet rapidly developing, TexaNet was already running VSAT, ISP, and IT outsourcing businesses. We already have both a closed fixed network and an internet service provider license at the time.
               <br /><br />
-              In 2015, iForte was acquired by PT Profesional Telekomunikasi Indonesia or known as PT. Protelindo, a subsidiary of PT. Sarana Menara Nusantara, Tbk. PT. Protelindo is the largest independent tower provider in Indonesia, with more than 30,000 towers and nearly 55,000 tenants.
+              In 2015, TexaNet was acquired by PT Profesional Telekomunikasi Indonesia or known as PT. Protelindo, a subsidiary of PT. Sarana Menara Nusantara, Tbk. PT. Protelindo is the largest independent tower provider in Indonesia, with more than 30,000 towers and nearly 55,000 tenants.
               <br /><br />
-              By the end of 2022, iForte has succeeded in building and operating 155,000 km of fiber optic cables which connected more than 20,000 towers in Indonesia with fiber optic cable networks and already has more than 6,000 VSAT sites and serves more than 3,000 corporate customers.
+              By the end of 2022, TexaNet has succeeded in building and operating 155,000 km of fiber optic cables which connected more than 20,000 towers in Indonesia with fiber optic cable networks and already has more than 6,000 VSAT sites and serves more than 3,000 corporate customers.
               <br /><br />
-              iForte always prioritizes customer satisfaction and professional services to strengthen iForte's focus in Indonesia's telecommunications business and strengthen iForte's vision as a provider of data communication & connectivity network services based on optical cable, wireless, and VSAT.
+              TexaNet always prioritizes customer satisfaction and professional services to strengthen TexaNet's focus in Indonesia's telecommunications business and strengthen TexaNet's vision as a provider of data communication & connectivity network services based on optical cable, wireless, and VSAT.
             </p>
           </div>
 
